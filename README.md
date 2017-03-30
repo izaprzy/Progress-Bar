@@ -1,1 +1,1 @@
-Progress Bar in jQuery
+Progress Bar in jQuery ---> https://izaprzy.github.io/Progress-Bar/
