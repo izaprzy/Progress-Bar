@@ -1,0 +1,30 @@
+body {
+    background-color: #f6f6f6;
+}
+.progress-bar {
+    background-color: #2f2f2f;
+    height: 25px;
+    padding: 5px;
+    width: 350px;
+    margin: 50px 0;
+    border-radius: 5px;
+}
+
+.progress-bar span {
+    display: inline-block;
+    height: 100%;
+    width: 0px;
+    border-radius: 3px;
+}
+
+.blue {
+    background-color: #34c2e3;
+}
+
+.orange {
+    background-color: #fecf23;
+}
+
+.green {
+    background-color: #a5df41;
+}

@@ -1,1 +1,1 @@
-# Progress-Bar
+Progress Bar in jQuery
